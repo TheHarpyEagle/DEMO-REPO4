@@ -1,4 +1,4 @@
 Created intro.txt locally
 This is created by remote master branch
-This is to test what happens if local and remote diverge by 1 commit
+This is to check what happens if remote and local differ
 
